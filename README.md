@@ -6,5 +6,5 @@
 # Hardware
  GPU : GTX1050 2GB<br>
  CPU : intel i7-7500U<br>
- RAM : 24GB<br>
+ RAM : DDR4 24GB<br>
  Execution time: ~2hr<br>
