@@ -1,5 +1,5 @@
 # AIDEA_AOI
- AOI 瑕疵分類
+ AOI 瑕疵分類<br>
  framework : keras<br>
  model : Inception v3<br>
  accuracy : ~99.3%
